@@ -11,7 +11,6 @@ import time
 import getopt
  
 def help():
-    print("Script DDOS by LooneyDuck: LooneyDuck.py <methode>")
     print("                                       udp <ip> <port> <temps>")
     print("                                       tcp <ip> <port> <temps>")
  
